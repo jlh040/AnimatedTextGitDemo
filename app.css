@@ -7,11 +7,12 @@ body {
 }
 
 h1 {
-    font-size: 20rem;
+    font-size: 17rem;
 }
 
 
 
 .letter {
     transition: color 1000ms;
+    font-family: Kanit, sans-serif;
 }
